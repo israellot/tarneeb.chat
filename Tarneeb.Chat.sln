@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarneeb.Chat.WebApp", "Tarneeb.Chat.WebApp\Tarneeb.Chat.WebApp.csproj", "{A0F41B20-6611-41B8-AF4D-31220963E086}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarneeb.Chat.OrleansWebJob", "Tarneeb.Chat.OrleansWebJob\Tarneeb.Chat.OrleansWebJob.csproj", "{84342DE5-AB58-4866-963B-62624BBFCBC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0F41B20-6611-41B8-AF4D-31220963E086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0F41B20-6611-41B8-AF4D-31220963E086}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0F41B20-6611-41B8-AF4D-31220963E086}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0F41B20-6611-41B8-AF4D-31220963E086}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84342DE5-AB58-4866-963B-62624BBFCBC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84342DE5-AB58-4866-963B-62624BBFCBC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84342DE5-AB58-4866-963B-62624BBFCBC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84342DE5-AB58-4866-963B-62624BBFCBC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
