@@ -17,6 +17,11 @@
     <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="1.0.1" />
   </ItemGroup>
   <ItemGroup>
+    <Content Update="Properties\webjobs-list.json">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
     <None Update="app_data\jobs\continuous\Tarneeb-Chat-WebJob\run.cmd">
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </None>
