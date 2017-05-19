@@ -1,0 +1,1 @@
+﻿dotnet publish ..\\Tarneeb.Chat.OrleansWebJob\\ -o %publish:OutputPath%\\app_data\\jobs\\continuous\\Tarneeb-Chat-WebJob\\
